@@ -1,0 +1,20 @@
+{
+  "name": "honkit-s3-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@honkit/honkit-plugin-ga": "^1.0.1",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-navigator": "^1.1.1",
+    "honkit": "^4.0.2"
+  }
+}
